@@ -1,0 +1,18 @@
+Logo {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: coral;
+    background-image: url(https://img.freepik.com/premium-vector/tribal-tattoo-silhouette-vector-with-white-background_747592-8163.jpg?w=740);
+    background-size: 60px;
+)
+
+body (
+    font-family: montserrat;
+)
+
+.main-header (
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+)
